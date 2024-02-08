@@ -4,3 +4,5 @@ This project aims to address the following modules for blind individuals who are
 Text-to-Speech Module
 HTTP Request Module
 GUI Control Module
+
+
